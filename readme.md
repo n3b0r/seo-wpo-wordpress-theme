@@ -1,6 +1,6 @@
 # Plantilla SEO + WPO para WordPress
 
-![](https://www.vgsystems.es/extra/imgs/vgs.png)
+<img src="https://vgst.net/img/vgs_color.svg" width="200">
 
 ## Sobre este tema
 
@@ -13,17 +13,15 @@ El **objetivo** es lograr un tema optimizado para SEO y WPO sin perder capacidad
 
 Mi nombre: **Víctor Guerrero**
 
-Trabajo en: **VGS tecnologías web**
+Trabajo en: **VGS**
 
-Me puedes escribir a: **contacto@vgsystems.es**
+Me puedes escribir a: **contacto@vgst.net**
 
 Me puedes llamar al: **976 472 539**
 
-Te ofrecemos: **[www.vgsystems.es](https://www.vgsystems.es)**
+Te ofrecemos: **[vgst.net](https://vgst.net)**
 
 
 #### Licencia
 
 Eres libre de descargar, modificar y utilizar este tema como mejor te convenga.
-
-Si te ha servido de utilidad, cuéntamelo en [Twitter @vm_guerrero](https://twitter.com/vm_guerrero),
